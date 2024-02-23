@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Pacifico&display=swap');
-
+@import url('Components/body.css');
+@import url('Components/banner.css');
+@import url('Components/button.css');
+@import url('Components/menu.css');
+@import url('Components/footer.css');
 body {
   margin: 0;
   padding: 0;
